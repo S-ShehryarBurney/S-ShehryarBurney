@@ -59,7 +59,7 @@ I'm focused on becoming a professional Python Developer by building high-quality
 Location: Lahore, Pakistan
 
 GitHub:
-https://github.com/S-ShehryarBurney## Hi there 👋
+https://github.com/S-ShehryarBurney##
 
 <!--
 **S-ShehryarBurney/S-ShehryarBurney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
