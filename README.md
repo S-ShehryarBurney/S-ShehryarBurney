@@ -46,6 +46,11 @@ A complete data processing and reporting project that:
 Repository:
 **python-video-game-sales-analysis**
 
+### Retail Sales Analytics Database
+
+Relational PostgreSQL database demonstrating SQL reporting, database normalization, analytical queries, CTEs, window functions, views, and indexing.
+
+Technologies: PostgreSQL • SQL • Git • GitHub
 ---
 
 ## Current Goal
