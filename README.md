@@ -49,6 +49,7 @@ Repository:
 ### Retail Sales Analytics Database
 
 Relational PostgreSQL database demonstrating SQL reporting, database normalization, analytical queries, CTEs, window functions, views, and indexing.
+
 Technologies: 
 - PostgreSQL
 - SQL
