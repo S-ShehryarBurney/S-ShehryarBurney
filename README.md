@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a Python developer focused on building practical software that solves real-world business problems.
+I'm a backend-focused Python developer passionate about building practical software that solves real-world business problems.
 
 I enjoy building backend applications, relational databases, and business automation solutions using Python and PostgreSQL. I'm currently expanding my backend development skills with FastAPI while building practical portfolio projects.
 
