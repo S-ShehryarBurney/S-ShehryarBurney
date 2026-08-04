@@ -4,7 +4,7 @@
 
 I'm a Python developer focused on building practical software that solves real-world business problems.
 
-I enjoy working with Python, SQL, data processing, automation, and backend development. I'm currently expanding my skills in Django and FastAPI while building projects that strengthen my software development experience.
+I enjoy building backend applications, relational databases, and business automation solutions using Python and PostgreSQL. I'm currently expanding my backend development skills with FastAPI while building practical portfolio projects.
 
 ---
 
