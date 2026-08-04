@@ -27,7 +27,9 @@ I enjoy building backend applications, relational databases, and business automa
 - Matplotlib
 - Git
 - GitHub
-- Visual Studio Code
+- FastAPI
+- PostgreSQL
+- SQLAlchemy
 
 ---
 
