@@ -236,6 +236,3 @@ Automation
 My goal is to build practical software where **backend engineering, business data, AI, and automation work together as a single system**.
 
 ---
-
-⭐ **Building practical backend and AI systems with Python.**
-````
