@@ -2,7 +2,7 @@
 
 ### I build systems, then tug on the wire marked “probably fine.”
 
-Python by default; AI, backend, and automation by curiosity. Away from agent projects, I work on machine learning and deep learning too—and occasionally make games with their own interesting bugs.
+Python by default; AI, backend, automation, and ML by curiosity. I like figuring out what's happening under the hood—and occasionally making games with their own interesting bugs.
 
 ---
 
@@ -10,11 +10,11 @@ Python by default; AI, backend, and automation by curiosity. Away from agent pro
 
 **AI Business Operations Assistant**
 
-An agent that connects company data with policy documents. It has five purpose-built tools, a bounded tool-calling loop, and 44 automated tests.
+Tool-using AI agent built with FastAPI, Streamlit, PostgreSQL, pgvector, and OpenRouter. It combines five purpose-built tools in a bounded five-round tool-calling loop, with 44 automated tests. n8n was tested as an external automation layer.
 
-**Retail Sales Analytics Database**
+**E-commerce Customer Churn Prediction Engine**
 
-A PostgreSQL project for relational design and business reporting, with CTEs, window functions, and views.
+Machine learning pipeline for churn prediction with structured preprocessing, feature engineering and data preparation, plus classification model experimentation and evaluation.
 
 ---
 
